@@ -1,5 +1,4 @@
 dog
 cat
-cow 
-horse
-penguin 
+cow
+penguin
